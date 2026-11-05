@@ -12,7 +12,7 @@ You can work through the course itself, for free and without an account, at
 | file | |
 |---|---|
 | `sentences.json` | 1,512 Spanish/English pairs, with accepted alternates and distractors |
-| `sentences.csv` | the same pairs, flat — for Anki, spreadsheets, anything that eats CSV |
+| `sentences.csv` | the same pairs, flat — `id,spanish,english`, for Anki or a spreadsheet |
 | `lessons.json` | 294 lessons: 86 reading lessons and 208 drills |
 | `course.json` | the main course — 18 units, 67 sections, 183 lessons, in order |
 | `topics.json` | 19 themed collections across the same lessons (Star Wars, Cooking, Past Tense…) |
@@ -32,8 +32,7 @@ A sentence. Only `id`, `es` and `en` are guaranteed; the rest appear when they h
   "es": "¿A dónde vas?",
   "en": "Where are you going?",
   "en_alt": ["Where're you going?", "Where do you go?"],
-  "tips": ["question-words", "ir"],
-  "audio": "es-a-donde-vas.mp3"
+  "tips": ["question-words", "ir"]
 }
 ```
 
@@ -48,19 +47,6 @@ A lesson is either prose or a drill:
 lesson ids per topic. Both point into `lessons.json`; drills point into `sentences.json`.
 
 Lesson and cheat-sheet text is Markdown.
-
-## Audio
-
-1,372 sentences have a recording, and `audio` holds its filename. 621 of those are
-served today and can be fetched directly:
-
-```
-https://www.cambaughn.com/forge/audio/<filename>
-```
-
-The rest were recorded but aren't published yet. `audio` is absent where no recording
-was ever made. 20 sentences carry an `audio_alt` list as well — a second or third take,
-from back when the same sentence existed as more than one record.
 
 ## What was left out, and why
 
@@ -85,6 +71,8 @@ confusion, I cut:
   twice, once per lesson that needed it, and the copies drifted apart: one version of
   *¿Dónde estás?* accepted "Where are you at?" and the other didn't, so the same prompt
   was graded two different ways. They're merged, with the accepted answers combined.
+- **The audio.** Most of these sentences were recorded, but the recordings aren't
+  part of this release. This is the text.
 - **Other languages.** There were small Esperanto, Italian and Chinese sets, plus
   single-record stubs. This repo is Spanish only.
 
