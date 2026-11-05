@@ -78,5 +78,7 @@ confusion, I cut:
 
 ## License
 
+Copyright (c) Cameron Baughn.
+
 Content is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — use it, remix it,
 build on it, just credit it.
