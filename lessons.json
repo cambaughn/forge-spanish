@@ -207,7 +207,7 @@
       "es-ensena-a-tus-estudiantes",
       "es-lee-tu-libro",
       "es-dame-todo-tu-dinero",
-      "es-ven-aca-1",
+      "es-ven-aca",
       "es-no-digas-mi-nombre",
       "es-sientate-en-la-silla"
     ]
@@ -417,19 +417,6 @@
       "es-un-clavada-absolutamente-vicioso",
       "es-preparate-para-un-gran-juego-de-baloncesto",
       "es-el-ataque-agarra-el-rebote"
-    ]
-  },
-  {
-    "id": "es-at-this-hour",
-    "type": "drill",
-    "title": "At this hour?",
-    "sentences": [
-      "es-que-hora-es",
-      "es-son-las-nueve-de-la-noche",
-      "es-a-que-hora-empiezas-la-escuela",
-      "es-me-voy-a-la-cama-a-medianoche",
-      "es-mi-padre-se-despierta-a-las-seis-de-la-manana-todos-los-dias",
-      "es-la-pelicula-comenzara-a-las-7-30"
     ]
   },
   {
@@ -991,12 +978,6 @@
     "text": "Let's go over a few of the key greetings you'll need right away, just to say hello and goodbye.\n\nThere are, of course, lots of others, including slang and regional words, we'll encounter those as we go. For now, let's focus on the basics.\n\n---\n\n|  **Spanish**  |  **English**  | \n| --------- | -------- |\n| **hola**  | hello |\n| **adiós**  | goodbye |\n| **hasta pronto**  | see you soon *(lit: until soon)* |\n| **hasta luego**  | see you later *(lit: until later)* |\n| **nos vemos**  | see you later *(lit: we'll see each other)* |\n| **buenos días**  | good morning |\n| **buenas tardes**  | good afternoon |\n| **buenas noches**  | good evening, good night |\n\n---\n\nNote that **hasta luego** and **nos vemos** are fairly interchangeable. Both serve the purpose of saying \"I'll see you later,\" they're just two different ways of communicating the same thing.\n\n**Hasta luego** literally means \"until later,\" while **nos vemos** means \"we'll see each other.\""
   },
   {
-    "id": "es-hello-my-name-is",
-    "type": "reading",
-    "title": "Hello, my name is...",
-    "text": "When learning a new language, one of the most important things to be able to do early on is to introduce yourself. Let's learn a basic way to say hello and tell someone your name in Spanish!\n\n---\n\n**María:** Hola, ¿cómo estás?\n**Jorge:** Bien, ¿y tú?\n**María:** Muy bien, gracias. ¿Cómo te llamas?\n**Jorge:** Soy Jorge. ¿Y tú?\n**María:** Me llamo María. Mucho gusto, Jorge.\n**Jorge:** Mucho gusto.\n\n"
-  },
-  {
     "id": "es-here-and-happening",
     "type": "drill",
     "title": "Here and happening",
@@ -1119,7 +1100,7 @@
     "type": "drill",
     "title": "I call myself Ishmael",
     "sentences": [
-      "es-me-llamo-juan-1",
+      "es-me-llamo-juan",
       "es-como-se-llama",
       "es-me-dije-que-soy-fuerte",
       "es-no-te-preocupes",
@@ -1547,19 +1528,6 @@
     "text": "The last situation we'll talk about in this unit is what's called an *impersonal opinion*. But wait, aren't all opinions personal?\n\nTechnically, yes. They do belong to a person. Perhaps a clearer distinction here would be to say that we're talking about *general, debatable opinions*.\n\n---\n\nIf you say \"I think that sushi is good,\" that's an *objective statement*. You're claiming it as your opinion by saying \"I think\" (or similarly, \"I believe\").\n\nThis tells us that this kind of statement should use the *indicative mood*. It is objectively your personal opinion.\n\n---\n\nWhat if you tweak your statement to say \"It's great that you eat sushi\"? Grammatically, this changes everything. Even though this is, of course, still your opinion, it goes from personal to *general*.\n\n---\n\nThis kind of statement introduces an element of uncertainty and subjectivity, as it's a general statement that is now up for debate. Is it great, or is it not?\n\nBecause of this uncertainty, it lets us know we should use the subjunctive in this case.\n\n---\n\nKeep in mind that we're not talking about the intent behind the statements, merely about the grammar. If you say \"I think...\" or \"I believe...\", you're stating *for a fact* that this is your personal belief. It's clear that this is the truth.\n\n---\n\nIf you say \"It's important that...\", you're introducing ambiguity. It could be important, or it could not. It's not clear, and that's where the subjunctive comes in.\n\n---\n\nUnlike many of the other situations we've talked about, it's more important to understand the structure of this kind of statement than to memorize specific phrases that tell us to use the subjunctive.\n\n---\n\nThat being said, here are a few examples of the *types* of phrases that fit into this situation. Of course, we'll see more during the drills coming up.\n\n- **es fantástico que** - it's fantastic that\n- **es mejor que** - it's better that\n- **es necesario que** - it's necessary that\n- **es preferible que** - it's preferable that\n- **es importante que** - it's important that\n- **es ridículo que** - it's ridiculous that\n- **es terrible que** - it's terrible that\n\n---\n\nAnd, naturally, negating all these results in the same situation. Whether you're saying **it's necessary that...** or **it's not necessary that...**, both will use the subjunctive.\n"
   },
   {
-    "id": "es-keep-it-in-the-family",
-    "type": "drill",
-    "title": "Keep it in the family",
-    "sentences": [
-      "es-mi-hermana-se-maquilla-todos-los-dias",
-      "es-eres-mi-madre",
-      "es-mi-padre-es-un-empresario",
-      "es-el-hermano-de-juan-tiene-un-auto-caro",
-      "es-la-hermana-de-mi-amiga-canta-maravillosamente",
-      "es-su-hermano-es-alto"
-    ]
-  },
-  {
     "id": "es-last-but-not-least",
     "type": "reading",
     "title": "Last but not least",
@@ -1583,14 +1551,6 @@
     "type": "reading",
     "title": "Let's count to 10",
     "text": "One of the most important things we can learn early on is how to count and express quantities of things. That's right, it's time to learn our numbers!\n\n---\n\nLet's start by learning zero through ten:\n\n0\\. cero\n1\\. uno\n2\\. dos\n3\\. tres\n4\\. cuatro\n5\\. cinco\n6\\. seis\n7\\. siete\n8\\. ocho\n9\\. nueve\n10\\. diez\n\n---\n\nThe only real way to learn numbers well is to use them in context, rather than just counting up and down. So, let's get to practicing!"
-  },
-  {
-    "id": "es-lived-laughed-loved",
-    "type": "drill",
-    "title": "Lived, laughed, loved",
-    "sentences": [
-      "es-me-rei-mucho"
-    ]
   },
   {
     "id": "es-location-location-location",
@@ -1787,12 +1747,12 @@
     "title": "Old stomping grounds",
     "sentences": [
       "es-soy-de-los-angeles",
-      "es-donde-vives-1",
-      "es-vivo-en-los-estados-unidos-1",
+      "es-donde-vives",
+      "es-vivo-en-los-estados-unidos",
       "es-vives-en-canada",
       "es-mi-casa-esta-en-mexico",
       "es-ella-es-de-nueva-york",
-      "es-de-donde-eres-1"
+      "es-de-donde-eres"
     ]
   },
   {
@@ -1876,7 +1836,7 @@
     "title": "Out and about",
     "sentences": [
       "es-estoy-conduciendo-a-la-oficina-de-correos",
-      "es-donde-estas-1",
+      "es-donde-estas",
       "es-estamos-trabajando-en-un-cafe",
       "es-conduces-o-caminas",
       "es-monto-mi-bicicleta-a-la-tienda",
@@ -1890,10 +1850,10 @@
     "title": "Out of work",
     "sentences": [
       "es-donde-trabajas-1",
-      "es-trabajo-en-una-oficina-1",
+      "es-trabajo-en-una-oficina",
       "es-trabajo-en-una-empresa",
       "es-trabaja-en-la-escuela",
-      "es-no-tengo-trabajo-1",
+      "es-no-tengo-trabajo",
       "es-tienes-trabajo",
       "es-yo-trabajo-en-una-tienda"
     ]
@@ -1967,17 +1927,6 @@
       "es-deje-al-perro-afuera",
       "es-el-auto-esta-alla",
       "es-la-mesa-esta-debajo-las-cortinas"
-    ]
-  },
-  {
-    "id": "es-planes-trains-and-automobiles",
-    "type": "drill",
-    "title": "Planes, trains, and automobiles",
-    "sentences": [
-      "es-estoy-conduciendo-el-carro",
-      "es-me-gusta-andar-en-bicicleta",
-      "es-quien-esta-conduciendo",
-      "es-quieres-andar-en-bicicleta"
     ]
   },
   {
@@ -2087,19 +2036,6 @@
     ]
   },
   {
-    "id": "es-rub-a-dub-dub-2",
-    "type": "drill",
-    "title": "Rub-a-dub-dub",
-    "sentences": [
-      "es-me-cepillo-los-dientes-dos-veces-al-dia",
-      "es-te-duchas-todos-los-dias",
-      "es-me-gusta-ducharme-por-la-noche",
-      "es-el-espejo-esta-muy-sucio",
-      "es-por-favor-limpia-el-bano",
-      "es-donde-esta-el-bano-1"
-    ]
-  },
-  {
     "id": "es-run-run-run",
     "type": "drill",
     "title": "Run, run, run",
@@ -2132,7 +2068,7 @@
     "type": "drill",
     "title": "Shifting sands",
     "sentences": [
-      "es-un-libro-1",
+      "es-un-libro",
       "es-una-cuchara",
       "es-doscientos-pollos",
       "es-doscientos-minutos",
@@ -2385,7 +2321,7 @@
       "es-no-pongas-eso-alli",
       "es-creeme",
       "es-no-leas-ese-libro-es-para-adultos",
-      "es-dame-ese-1",
+      "es-dame-ese",
       "es-come-tus-vegetales"
     ]
   },
@@ -2407,15 +2343,6 @@
       "es-obi-wan-te-ha-instruido-bien",
       "es-su-carencia-de-fe-resulta-molesta",
       "es-no-conoces-el-poder-del-lado-oscuro"
-    ]
-  },
-  {
-    "id": "es-thicker-than-water",
-    "type": "drill",
-    "title": "Thicker than water",
-    "sentences": [
-      "es-mi-abuela-es-amable",
-      "es-mi-abuelo-ama-a-mi-abuela"
     ]
   },
   {
@@ -2550,11 +2477,11 @@
     "title": "Until we meet again",
     "sentences": [
       "es-nos-vemos",
-      "es-buenas-tardes-1",
-      "es-buenas-noches-1",
-      "es-adios-1",
+      "es-buenas-tardes",
+      "es-buenas-noches",
+      "es-adios",
       "es-hasta-pronto-1",
-      "es-buenos-dias-1"
+      "es-buenos-dias"
     ]
   },
   {
@@ -2676,10 +2603,10 @@
     "type": "drill",
     "title": "What are you doing?",
     "sentences": [
-      "es-que-estas-haciendo-2",
+      "es-que-estas-haciendo",
       "es-estoy-lavando-los-platos",
       "es-estas-estudiando",
-      "es-estoy-escribiendo-una-novela-1",
+      "es-estoy-escribiendo-una-novela",
       "es-que-videojuego-estas-jugando",
       "es-estoy-leyendo-un-libro",
       "es-estas-viendo-una-pelicula"
@@ -2815,10 +2742,10 @@
     "type": "drill",
     "title": "What's your name?",
     "sentences": [
-      "es-como-te-llamas-1",
+      "es-como-te-llamas",
       "es-yo-soy-arturo",
       "es-me-llamo-rosa",
-      "es-mucho-gusto-1",
+      "es-mucho-gusto",
       "es-gracias-1"
     ]
   },
@@ -2892,8 +2819,8 @@
       "es-el-autor-esta-escribiendo-una-novela",
       "es-el-chef-esta-cocinando-pollo",
       "es-que-esta-haciendo-el-abogado",
-      "es-que-esta-pasando-1",
-      "es-que-estas-haciendo-1",
+      "es-que-esta-pasando",
+      "es-que-estas-haciendo",
       "es-el-maestro-esta-comiendo-tacos-deliciosos",
       "es-estoy-viendo-una-pelicula-popular"
     ]
@@ -2972,7 +2899,7 @@
     "title": "You must do it",
     "sentences": [
       "es-cocina-la-comida",
-      "es-simplemente-hazlo-1",
+      "es-simplemente-hazlo",
       "es-olvida-lo-que-dije",
       "es-no-me-olvides",
       "es-haz-lo-que-te-digo-por-favor",

@@ -11,19 +11,16 @@ You can work through the course itself, for free and without an account, at
 
 | file | |
 |---|---|
-| `sentences.json` | 1,534 Spanish/English pairs, with accepted alternates and distractors |
+| `sentences.json` | 1,512 Spanish/English pairs, with accepted alternates and distractors |
 | `sentences.csv` | the same pairs, flat — for Anki, spreadsheets, anything that eats CSV |
-| `lessons.json` | 301 lessons: 87 reading lessons and 214 drills |
+| `lessons.json` | 294 lessons: 86 reading lessons and 208 drills |
 | `course.json` | the main course — 18 units, 67 sections, 183 lessons, in order |
 | `topics.json` | 19 themed collections across the same lessons (Star Wars, Cooking, Past Tense…) |
 | `tips.json` | 20 short grammar notes, attached to individual sentences |
 | `cheatsheets.json` | 19 longer reference pages, attached to units |
 
-Every reference resolves. No ids point at anything missing.
-
-183 of the lessons sit in the main course and 111 more are reached through a topic.
-The remaining 7 are finished lessons that nothing links to — they were written and
-then stranded, and they're here rather than thrown away.
+Every reference resolves, and every lesson is reachable: 183 sit in the main course,
+and the other 111 are reached through a topic.
 
 ## Shapes
 
@@ -54,7 +51,7 @@ Lesson and cheat-sheet text is Markdown.
 
 ## Audio
 
-1,393 sentences have a recording, and `audio` holds its filename. 635 of those are
+1,372 sentences have a recording, and `audio` holds its filename. 621 of those are
 served today and can be fetched directly:
 
 ```
@@ -62,7 +59,8 @@ https://www.cambaughn.com/forge/audio/<filename>
 ```
 
 The rest were recorded but aren't published yet. `audio` is absent where no recording
-was ever made.
+was ever made. 20 sentences carry an `audio_alt` list as well — a second or third take,
+from back when the same sentence existed as more than one record.
 
 ## What was left out, and why
 
@@ -80,8 +78,13 @@ confusion, I cut:
   references, exactly one still needed it, and that one was a test record.
 - **`cheat_sheet_entries`.** A newer take on cheat sheets that nothing referenced, and
   which duplicated an existing tip word for word.
-- **31 lessons**: 26 that were titles with no body, and 5 scratch records left over
-  from testing (one of them three characters long).
+- **38 lessons**: 26 that were titles with no body, 5 scratch records left over from
+  testing (one of them three characters long), and 7 that nothing linked to — five
+  of those belonged to topics that were never finished.
+- **22 duplicate sentence records.** The same Spanish sentence was sometimes entered
+  twice, once per lesson that needed it, and the copies drifted apart: one version of
+  *¿Dónde estás?* accepted "Where are you at?" and the other didn't, so the same prompt
+  was graded two different ways. They're merged, with the accepted answers combined.
 - **Other languages.** There were small Esperanto, Italian and Chinese sets, plus
   single-record stubs. This repo is Spanish only.
 

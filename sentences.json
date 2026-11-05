@@ -171,16 +171,10 @@
     "en_distractors": [
       "Hello!"
     ],
-    "audio": "es-adios.mp3"
-  },
-  {
-    "id": "es-adios-1",
-    "es": "¡Adiós!",
-    "en": "Bye!",
-    "en_alt": [
-      "Goodbye!"
-    ],
-    "audio": "es-adios-1.mp3"
+    "audio": "es-adios.mp3",
+    "audio_alt": [
+      "es-adios-1.mp3"
+    ]
   },
   {
     "id": "es-agonia-de-la-derrota",
@@ -446,16 +440,13 @@
     "es": "Buenas noches.",
     "en": "Good evening.",
     "en_alt": [
-      "Goodnight.",
-      "Good night."
+      "Good night.",
+      "Goodnight."
     ],
-    "audio": "es-buenas-noches.mp3"
-  },
-  {
-    "id": "es-buenas-noches-1",
-    "es": "Buenas noches.",
-    "en": "Good night.",
-    "audio": "es-buenas-noches-1.mp3"
+    "audio": "es-buenas-noches.mp3",
+    "audio_alt": [
+      "es-buenas-noches-1.mp3"
+    ]
   },
   {
     "id": "es-buenas-tardes",
@@ -465,16 +456,10 @@
       "Afternoon.",
       "Good evening."
     ],
-    "audio": "es-buenas-tardes.mp3"
-  },
-  {
-    "id": "es-buenas-tardes-1",
-    "es": "Buenas tardes.",
-    "en": "Good afternoon.",
-    "en_alt": [
-      "Good evening."
-    ],
-    "audio": "es-buenas-tardes-1.mp3"
+    "audio": "es-buenas-tardes.mp3",
+    "audio_alt": [
+      "es-buenas-tardes-1.mp3"
+    ]
   },
   {
     "id": "es-bueno",
@@ -490,16 +475,10 @@
       "Morning.",
       "Good day."
     ],
-    "audio": "es-buenos-dias.mp3"
-  },
-  {
-    "id": "es-buenos-dias-1",
-    "es": "Buenos días.",
-    "en": "Good morning.",
-    "en_alt": [
-      "Morning."
-    ],
-    "audio": "es-buenos-dias-1.mp3"
+    "audio": "es-buenos-dias.mp3",
+    "audio_alt": [
+      "es-buenos-dias-1.mp3"
+    ]
   },
   {
     "id": "es-buscalo",
@@ -981,19 +960,10 @@
     "en_alt": [
       "What is your name?"
     ],
-    "audio": "es-como-te-llamas.mp3"
-  },
-  {
-    "id": "es-como-te-llamas-1",
-    "es": "¿Cómo te llamas?",
-    "en": "What's your name?",
-    "es_alt": [
-      "¿Cómo se llama?"
-    ],
-    "en_alt": [
-      "What is your name?"
-    ],
-    "audio": "es-como-te-llamas-1.mp3"
+    "audio": "es-como-te-llamas.mp3",
+    "audio_alt": [
+      "es-como-te-llamas-1.mp3"
+    ]
   },
   {
     "id": "es-como-una-manzana-roja",
@@ -1582,24 +1552,17 @@
     "es": "Dame ese.",
     "en": "Give me that.",
     "es_alt": [
-      "Dame eso."
-    ],
-    "en_alt": [
-      "Gimme that"
-    ],
-    "audio": "es-dame-ese.mp3"
-  },
-  {
-    "id": "es-dame-ese-1",
-    "es": "Dame ese.",
-    "en": "Give me that.",
-    "es_alt": [
+      "Dame eso.",
       "Dame eso"
     ],
     "en_alt": [
+      "Gimme that",
       "Gimme that."
     ],
-    "audio": "es-dame-ese-1.mp3"
+    "audio": "es-dame-ese.mp3",
+    "audio_alt": [
+      "es-dame-ese-1.mp3"
+    ]
   },
   {
     "id": "es-dame-ese-telefono",
@@ -1645,19 +1608,13 @@
     "es": "¿De dónde eres?",
     "en": "Where are you from?",
     "en_alt": [
-      "Where're you from?"
-    ],
-    "audio": "es-de-donde-eres.mp3"
-  },
-  {
-    "id": "es-de-donde-eres-1",
-    "es": "¿De dónde eres?",
-    "en": "Where are you from?",
-    "en_alt": [
       "Where're you from?",
       "You are from where?"
     ],
-    "audio": "es-de-donde-eres-1.mp3"
+    "audio": "es-de-donde-eres.mp3",
+    "audio_alt": [
+      "es-de-donde-eres-1.mp3"
+    ]
   },
   {
     "id": "es-de-que-trata-este-guion",
@@ -1867,20 +1824,15 @@
     "es": "¿Dónde está el baño?",
     "en": "Where is the bathroom?",
     "en_alt": [
-      "Where's the bathroom?"
-    ],
-    "audio": "es-donde-esta-el-bano.mp3"
-  },
-  {
-    "id": "es-donde-esta-el-bano-1",
-    "es": "¿Dónde está el baño?",
-    "en": "Where is the bathroom?",
-    "en_alt": [
+      "Where's the bathroom?",
       "Where is the washroom?",
       "Where is the toilet?",
       "Where is the water closet?"
     ],
-    "audio": "es-donde-esta-el-bano-1.mp3"
+    "audio": "es-donde-esta-el-bano.mp3",
+    "audio_alt": [
+      "es-donde-esta-el-bano-1.mp3"
+    ]
   },
   {
     "id": "es-donde-esta-el-edificio",
@@ -1913,13 +1865,10 @@
     "en_alt": [
       "Where are you at?"
     ],
-    "audio": "es-donde-estas.mp3"
-  },
-  {
-    "id": "es-donde-estas-1",
-    "es": "¿Dónde estás?",
-    "en": "Where are you?",
-    "audio": "es-donde-estas-1.mp3"
+    "audio": "es-donde-estas.mp3",
+    "audio_alt": [
+      "es-donde-estas-1.mp3"
+    ]
   },
   {
     "id": "es-donde-se-sientan-los-disenadores-1",
@@ -1953,16 +1902,13 @@
     "id": "es-donde-vives",
     "es": "¿Dónde vives?",
     "en": "Where do you live?",
-    "audio": "es-donde-vives.mp3"
-  },
-  {
-    "id": "es-donde-vives-1",
-    "es": "¿Dónde vives?",
-    "en": "Where do you live?",
     "es_alt": [
       "¿Dónde vives tú?"
     ],
-    "audio": "es-donde-vives-1.mp3"
+    "audio": "es-donde-vives.mp3",
+    "audio_alt": [
+      "es-donde-vives-1.mp3"
+    ]
   },
   {
     "id": "es-dormammu-he-venido-para-negociar",
@@ -7665,24 +7611,16 @@
     "es": "Estoy escribiendo una novela.",
     "en": "I'm writing a novel.",
     "es_alt": [
-      "Yo estoy escribiendo una novela."
+      "Yo estoy escribiendo una novela.",
+      "Yo estoy escribiendo una novela"
     ],
     "en_alt": [
       "I am writing a novel."
     ],
-    "audio": "es-estoy-escribiendo-una-novela.mp3"
-  },
-  {
-    "id": "es-estoy-escribiendo-una-novela-1",
-    "es": "Estoy escribiendo una novela.",
-    "en": "I am writing a novel.",
-    "es_alt": [
-      "Yo estoy escribiendo una novela"
-    ],
-    "en_alt": [
-      "I'm writing a novel."
-    ],
-    "audio": "es-estoy-escribiendo-una-novela-1.mp3"
+    "audio": "es-estoy-escribiendo-una-novela.mp3",
+    "audio_alt": [
+      "es-estoy-escribiendo-una-novela-1.mp3"
+    ]
   },
   {
     "id": "es-estoy-escuchando-a-spotify-con-estos-audifonos",
@@ -10571,22 +10509,13 @@
       "Mi nombre es Juan."
     ],
     "en_alt": [
-      "My name's Juan."
-    ],
-    "audio": "es-me-llamo-juan.mp3"
-  },
-  {
-    "id": "es-me-llamo-juan-1",
-    "es": "Me llamo Juan.",
-    "en": "My name is Juan.",
-    "es_alt": [
-      "Mi nombre es Juan."
-    ],
-    "en_alt": [
       "My name's Juan.",
       "I'm Juan "
     ],
-    "audio": "es-me-llamo-juan-1.mp3"
+    "audio": "es-me-llamo-juan.mp3",
+    "audio_alt": [
+      "es-me-llamo-juan-1.mp3"
+    ]
   },
   {
     "id": "es-me-llamo-rosa",
@@ -11129,19 +11058,10 @@
       "It is nice to meet you.",
       "It's nice to meet you."
     ],
-    "audio": "es-mucho-gusto.mp3"
-  },
-  {
-    "id": "es-mucho-gusto-1",
-    "es": "Mucho gusto.",
-    "en": "Nice to meet you.",
-    "es_alt": [
-      "Es un plezuro."
-    ],
-    "en_alt": [
-      "It's nice to meet you."
-    ],
-    "audio": "es-mucho-gusto-1.mp3"
+    "audio": "es-mucho-gusto.mp3",
+    "audio_alt": [
+      "es-mucho-gusto-1.mp3"
+    ]
   },
   {
     "id": "es-muestrame-otra-vez-el-poder-de-la-oscuridad",
@@ -12216,21 +12136,7 @@
       "Yo no tengo trabajo.",
       "No tengo un trabajo.",
       "No tengo empleo.",
-      "No tengo ocupación."
-    ],
-    "en_alt": [
-      "I do not have a job.",
-      "I don't have work.",
-      "I do not have work."
-    ],
-    "audio": "es-no-tengo-trabajo.mp3"
-  },
-  {
-    "id": "es-no-tengo-trabajo-1",
-    "es": "No tengo trabajo.",
-    "en": "I don't have a job.",
-    "es_alt": [
-      "No tengo un trabajo.",
+      "No tengo ocupación.",
       "No tengo occupacion."
     ],
     "en_alt": [
@@ -12238,7 +12144,10 @@
       "I don't have work.",
       "I do not have work."
     ],
-    "audio": "es-no-tengo-trabajo-1.mp3"
+    "audio": "es-no-tengo-trabajo.mp3",
+    "audio_alt": [
+      "es-no-tengo-trabajo-1.mp3"
+    ]
   },
   {
     "id": "es-no-tengo-un-perro",
@@ -12970,28 +12879,18 @@
     "es": "¿Qué está pasando?",
     "en": "What's going on?",
     "es_alt": [
-      "¿Qué pasa?"
+      "¿Qué pasa?",
+      "Qué pasa?"
     ],
     "en_alt": [
       "What is happening?",
       "What's happening?",
       "What is going on?"
     ],
-    "audio": "es-que-esta-pasando.mp3"
-  },
-  {
-    "id": "es-que-esta-pasando-1",
-    "es": "¿Qué está pasando?",
-    "en": "What's going on?",
-    "es_alt": [
-      "Qué pasa?"
-    ],
-    "en_alt": [
-      "What is going on?",
-      "What's happening?",
-      "What is happening?"
-    ],
-    "audio": "es-que-esta-pasando-1.mp3"
+    "audio": "es-que-esta-pasando.mp3",
+    "audio_alt": [
+      "es-que-esta-pasando-1.mp3"
+    ]
   },
   {
     "id": "es-que-esta-pasando-aqui",
@@ -13032,22 +12931,11 @@
     "en_alt": [
       "What're you doing?"
     ],
-    "audio": "es-que-estas-haciendo.mp3"
-  },
-  {
-    "id": "es-que-estas-haciendo-1",
-    "es": "¿Qué estás haciendo?",
-    "en": "What are you doing?",
-    "en_alt": [
-      "What're you doing?"
-    ],
-    "audio": "es-que-estas-haciendo-1.mp3"
-  },
-  {
-    "id": "es-que-estas-haciendo-2",
-    "es": "¿Qué estás haciendo?",
-    "en": "What are you doing?",
-    "audio": "es-que-estas-haciendo-2.mp3"
+    "audio": "es-que-estas-haciendo.mp3",
+    "audio_alt": [
+      "es-que-estas-haciendo-1.mp3",
+      "es-que-estas-haciendo-2.mp3"
+    ]
   },
   {
     "id": "es-que-estas-pensando",
@@ -14210,13 +14098,10 @@
     "es_alt": [
       "Simple hazlo."
     ],
-    "audio": "es-simplemente-hazlo.mp3"
-  },
-  {
-    "id": "es-simplemente-hazlo-1",
-    "es": "Simplemente hazlo.",
-    "en": "Just do it.",
-    "audio": "es-simplemente-hazlo-1.mp3"
+    "audio": "es-simplemente-hazlo.mp3",
+    "audio_alt": [
+      "es-simplemente-hazlo-1.mp3"
+    ]
   },
   {
     "id": "es-sobre-que-estas-escribiendo",
@@ -15257,16 +15142,10 @@
       "Yo trabajo en una oficina.",
       "Trabajo en la oficina"
     ],
-    "audio": "es-trabajo-en-una-oficina.mp3"
-  },
-  {
-    "id": "es-trabajo-en-una-oficina-1",
-    "es": "Trabajo en una oficina.",
-    "en": "I work in an office.",
-    "es_alt": [
-      "Yo trabajo en una oficina."
-    ],
-    "audio": "es-trabajo-en-una-oficina-1.mp3"
+    "audio": "es-trabajo-en-una-oficina.mp3",
+    "audio_alt": [
+      "es-trabajo-en-una-oficina-1.mp3"
+    ]
   },
   {
     "id": "es-trabajo-para-que-podamos-comprar-una-casa",
@@ -15650,16 +15529,13 @@
     "id": "es-un-libro",
     "es": "Un libro",
     "en": "One book",
-    "audio": "es-un-libro.mp3"
-  },
-  {
-    "id": "es-un-libro-1",
-    "es": "Un libro",
-    "en": "One book",
     "en_alt": [
       "1 book"
     ],
-    "audio": "es-un-libro-1.mp3"
+    "audio": "es-un-libro.mp3",
+    "audio_alt": [
+      "es-un-libro-1.mp3"
+    ]
   },
   {
     "id": "es-un-libro-no-es-una-revista",
@@ -16330,16 +16206,10 @@
     "en_alt": [
       "Come over here."
     ],
-    "audio": "es-ven-aca.mp3"
-  },
-  {
-    "id": "es-ven-aca-1",
-    "es": "Ven aca.",
-    "en": "Come here.",
-    "en_alt": [
-      "Come over here."
-    ],
-    "audio": "es-ven-aca-1.mp3"
+    "audio": "es-ven-aca.mp3",
+    "audio_alt": [
+      "es-ven-aca-1.mp3"
+    ]
   },
   {
     "id": "es-vendemos-ropa-buena",
@@ -16562,30 +16432,16 @@
     "en": "I live in the United States.",
     "es_alt": [
       "Vivo en Estados Unidos.",
-      "Yo vivo en los Estados Unidos "
-    ],
-    "en_alt": [
-      "I live in the U.S.",
-      "I live in the U.S.A.",
-      "I live in the United States of America.",
-      "I live in America.",
-      "I live in the U.S."
-    ]
-  },
-  {
-    "id": "es-vivo-en-los-estados-unidos-1",
-    "es": "Vivo en los Estados Unidos.",
-    "en": "I live in the United States.",
-    "es_alt": [
+      "Yo vivo en los Estados Unidos ",
       "Yo vivo en los Estados Unidos."
     ],
     "en_alt": [
+      "I live in the U.S.",
+      "I live in the U.S.A.",
       "I live in the United States of America.",
+      "I live in America.",
       "I live in the USA.",
       "I live in the US.",
-      "I live in the U.S.A.",
-      "I live in the U.S.",
-      "I live in America.",
       "I live in the States."
     ],
     "audio": "es-vivo-en-los-estados-unidos-1.mp3"
