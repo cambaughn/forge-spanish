@@ -1,0 +1,266 @@
+[
+  {
+    "id": "en-es-commands-1",
+    "title": "Commands",
+    "subtitle": "It's absolutely imperative",
+    "description": "Get your bossy voice ready, we're learning about commands.",
+    "lessons": [
+      "es-start-here",
+      "es-you-must-do-it",
+      "es-there-is-no-other-choice",
+      "es-its-not-optional",
+      "es-a-privilege-and-an-honor"
+    ]
+  },
+  {
+    "id": "en-es-conditional-tense",
+    "title": "Conditional Tense",
+    "subtitle": "it's conditional",
+    "description": "This pack is a review of the conditional tense, which is all about actions that, in English, use the word \"would.\"",
+    "lessons": [
+      "es-the-right-conditions",
+      "es-i-wouldve-gotten-away-with-it-too",
+      "es-if-it-werent-for-you-meddling-kids",
+      "es-would-you-believe-it",
+      "es-would-you-look-at-that"
+    ]
+  },
+  {
+    "id": "en-es-cooking",
+    "title": "Cooking",
+    "subtitle": "Too many cooks",
+    "description": "This topic is full of useful words and sentences related to cooking and food. What's not to love?",
+    "lessons": [
+      "sp-let-s-get-cookin",
+      "es-what-do-you-want",
+      "es-what-do-you-like",
+      "es-tuck-in"
+    ]
+  },
+  {
+    "id": "en-es-future-tense",
+    "title": "Future Tense",
+    "subtitle": "Where we're going, we don't need roads",
+    "description": "Use this pack to practice and become a master of the future tense. Strap in, we're going back to the future!",
+    "lessons": [
+      "es-adelante",
+      "es-simple-but-effective",
+      "es-ill-do-it",
+      "es-will-you",
+      "es-i-can-see-the-future",
+      "es-the-future-lies-ahead",
+      "es-ill-be-back",
+      "es-hasta-la-vista-baby"
+    ]
+  },
+  {
+    "id": "en-es-movies",
+    "title": "Movies",
+    "subtitle": "Welcome to the silver screen",
+    "description": "Let's go to the movies! These lessons are all about cinema.",
+    "lessons": [
+      "es-action",
+      "es-cut",
+      "es-rolling",
+      "es-quiet-on-the-set",
+      "es-hollywoodland",
+      "es-gaffers-and-grips"
+    ]
+  },
+  {
+    "id": "en-es-new-year",
+    "title": "New Year",
+    "subtitle": "Happy New Year!",
+    "description": "Get started on your resolutions right away with this celebratory content.",
+    "lessons": [
+      "es-out-with-the-old",
+      "es-in-with-the-new",
+      "es-spirits-and-libations",
+      "es-party-time"
+    ]
+  },
+  {
+    "id": "en-es-numbers",
+    "title": "Numbers",
+    "subtitle": "To infinity and beyond",
+    "description": "Let's learn how to count in Spanish.",
+    "lessons": [
+      "es-counting-on-it",
+      "sp-three-two-one",
+      "sp-teen-spirit",
+      "es-first",
+      "es-how-many-are-there"
+    ]
+  },
+  {
+    "id": "en-es-past-tense",
+    "title": "Past Tense",
+    "subtitle": "Water under the bridge",
+    "description": "Let's take a walk down memory lane. This pack is all about practicing the past tense.",
+    "lessons": [
+      "es-something-concrete-the-preterite",
+      "es-indefinite-the-imperfect",
+      "es-going-shopping",
+      "es-buying-and-selling",
+      "es-reading-and-writing",
+      "es-are-you-not-entertained",
+      "es-back-in-the-day"
+    ]
+  },
+  {
+    "id": "en-es-present-progressive",
+    "title": "Present Progressive",
+    "subtitle": "The investigation is ongoing",
+    "description": "The present progressive is all about actions that are currently taking place. Use this topic to practice this verb tense!",
+    "lessons": [
+      "es-practice-makes-progress-1",
+      "es-what-are-you-doing-1",
+      "es-whats-going-on-here",
+      "es-penny-for-your-thoughts",
+      "es-never-change",
+      "es-run-run-run",
+      "es-something-magical-is-happening"
+    ]
+  },
+  {
+    "id": "en-es-present-tense",
+    "title": "Present Tense",
+    "description": "...and action! Get ready to practice verbs in the present tense.",
+    "lessons": [
+      "es-overview",
+      "es-working-hard",
+      "es-hardly-working",
+      "es-teachers-and-students",
+      "es-continued-education",
+      "es-eating-and-drinking",
+      "es-food-and-stuff",
+      "es-out-and-about",
+      "es-on-the-town",
+      "es-home-sweet-home",
+      "es-get-out-of-my-room"
+    ]
+  },
+  {
+    "id": "en-es-public-service",
+    "title": "Public Service",
+    "subtitle": "Not all heroes wear capes",
+    "description": "\"Look for the helpers. You will always find people who are helping.\" - Mr. Rogers",
+    "lessons": [
+      "es-fire-hazard",
+      "es-i-need-a-doctor",
+      "es-more-than-a-game",
+      "es-an-education",
+      "es-a-beautiful-day-in-the-neighborhood-2",
+      "es-law-and-order"
+    ]
+  },
+  {
+    "id": "en-es-sports",
+    "title": "Sports",
+    "subtitle": "Name of the game",
+    "description": "Play ball! Talk with your friends about the big game with these sports-based lessons.",
+    "lessons": [
+      "es-we-are-the-champions",
+      "es-agony-of-defeat",
+      "es-golazo",
+      "es-one-two-three-strikes-youre-out",
+      "es-on-the-gridiron",
+      "es-at-the-buzzer"
+    ]
+  },
+  {
+    "id": "en-es-star-wars",
+    "title": "Star Wars",
+    "subtitle": "May the Force be with you",
+    "description": "These lessons to you straight from a galaxy far, far away. Learn how to discuss the world of Star Wars (or, rather, \"La Guerra de las Galaxias\").",
+    "lessons": [
+      "es-these-arent-the-droids-youre-looking-for",
+      "es-thats-not-how-the-force-works",
+      "es-i-am-your-father",
+      "es-the-dark-side",
+      "es-it-calls-to-you",
+      "es-youre-my-only-hope"
+    ]
+  },
+  {
+    "id": "en-es-state-of-being",
+    "title": "State-of-being",
+    "subtitle": "To be or not to be",
+    "description": "Let's practice our basics with simple state-of-being sentences.",
+    "lessons": [
+      "that-is-the-question",
+      "go-to-your-room",
+      "ladies-and-gentlemen",
+      "boys-and-girls",
+      "es-say-cheese"
+    ]
+  },
+  {
+    "id": "en-es-superheroes",
+    "title": "Superheroes",
+    "subtitle": "I need a hero",
+    "description": "If you love superheroes as much as we do, you'll enjoy this topic covering your favorite quotes from movies and comics.",
+    "lessons": [
+      "es-with-great-power",
+      "es-comes-great-responsibility",
+      "es-a-dark-knight",
+      "es-a-boy-scout-in-blue",
+      "es-in-brightest-day",
+      "es-in-blackest-night"
+    ]
+  },
+  {
+    "id": "en-es-technology",
+    "title": "Technology",
+    "subtitle": "We have the technology",
+    "description": "Learn to exist in the modern world with these technology-focused lessons.",
+    "lessons": [
+      "es-coffee-and-wifi",
+      "es-charging-time",
+      "es-shopping-around",
+      "es-bits-and-bobbles",
+      "es-it-broke",
+      "es-ready-player-tu"
+    ]
+  },
+  {
+    "id": "en-es-the-news",
+    "title": "The News",
+    "subtitle": "Read all about it",
+    "description": "All about the fourth estate. The free press. The watchdog news. Whatever you want to call it, let's learn how to talk about the news from lead to print.",
+    "lessons": [
+      "es-extra-extra-extra",
+      "es-read-all-about-it",
+      "es-no-news-good-news",
+      "es-travels-fast",
+      "es-yesterdays-news",
+      "es-news-to-me"
+    ]
+  },
+  {
+    "id": "en-es-valentines-day",
+    "title": "Valentine's Day",
+    "subtitle": "Love is in the air",
+    "description": "Get ready to sweet-talk your significant other with this Valentine's Day pack.",
+    "lessons": [
+      "es-happy-valentines-day",
+      "es-i-got-you-something",
+      "es-whats-on-the-agenda",
+      "es-love-thyself"
+    ]
+  },
+  {
+    "id": "en-es-winter-holidays",
+    "title": "Winter Holidays",
+    "subtitle": "Tis the season",
+    "description": "Warm fires, cozy blankets, and loved ones close by. It's that most wonderful time of the year, and these lessons have all the holiday-specific content you need.",
+    "lessons": [
+      "es-baby-its-cold-outside",
+      "es-and-a-partridge-in-a-pear-tree",
+      "es-so-how-are-things",
+      "es-gather-round-the-table",
+      "es-what-to-do-what-to-do",
+      "es-a-fond-farewell"
+    ]
+  }
+]
