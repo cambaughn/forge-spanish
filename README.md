@@ -19,8 +19,6 @@ You can work through the course itself, for free and without an account, at
 | `tips.json` | 20 short grammar notes, attached to individual sentences |
 | `cheatsheets.json` | 19 longer reference pages, attached to units |
 
-Every reference resolves, and every lesson is reachable: 183 sit in the main course,
-and the other 111 are reached through a topic.
 
 ## Shapes
 
@@ -45,36 +43,6 @@ A lesson is either prose or a drill:
 
 `course.json` nests units → sections → lesson ids. `topics.json` is a flat list of
 lesson ids per topic. Both point into `lessons.json`; drills point into `sentences.json`.
-
-Lesson and cheat-sheet text is Markdown.
-
-## What was left out, and why
-
-The original data had several half-finished migrations in it. Rather than ship the
-confusion, I cut:
-
-- **The word-level hints.** Every sentence mapped word positions to dictionary entry
-  ids. That dictionary was never exported and no longer exists, so the hints couldn't
-  be resolved by anyone.
-- **Vocab packs.** 21 word lists whose 611 entries point at the same missing dictionary.
-  609 of 611 are unresolvable.
-- **`packs`.** The original container. 30 became topics, 14 became units; the rest were
-  stranded.
-- **A separate `questions` collection.** Superseded by `sentences` — of 1,474 drill
-  references, exactly one still needed it, and that one was a test record.
-- **`cheat_sheet_entries`.** A newer take on cheat sheets that nothing referenced, and
-  which duplicated an existing tip word for word.
-- **38 lessons**: 26 that were titles with no body, 5 scratch records left over from
-  testing (one of them three characters long), and 7 that nothing linked to — five
-  of those belonged to topics that were never finished.
-- **22 duplicate sentence records.** The same Spanish sentence was sometimes entered
-  twice, once per lesson that needed it, and the copies drifted apart: one version of
-  *¿Dónde estás?* accepted "Where are you at?" and the other didn't, so the same prompt
-  was graded two different ways. They're merged, with the accepted answers combined.
-- **The audio.** Most of these sentences were recorded, but the recordings aren't
-  part of this release. This is the text.
-- **Other languages.** There were small Esperanto, Italian and Chinese sets, plus
-  single-record stubs. This repo is Spanish only.
 
 ## License
 
