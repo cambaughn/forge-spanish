@@ -100,12 +100,6 @@
     "text": "You might have noticed through the previous lessons that there are some slight spelling differences between Spanish and English, even when the words are otherwise almost identical. Fortunately, those spelling differences are pretty straightforward. Let’s take a look!\n\n---\n\n**“Ph” becomes “f”**\n\n- alphabet -> **alfabeto**\n- elephant -> **elefante**\n- telephone -> **teléfono**\n- photo -> **foto**\n- phrase -> **frase**\n\n---\n\n**“Th” becomes “t”**\n\n- author -> **autor**\n- Catholic -> **Católico**\n- throne -> **trono**\n- authentic -> **auténtico**\n\n---\n\n**Only double “l” and “r”**\n\nThe only letters that are ever doubled in Spanish are “l” and “r.” A double “l” makes a “y” sound (*pollo* sounds like “poyo”). A double “rr” is rolled, which is possibly the most difficult sound in the Spanish language for those coming from an English-speaking background. As with everything, it just takes practice!\n\n---\n\nIn the case where an English word has two of the same letter next to each other, that doubled letter just becomes a single one in Spanish.\n\n- annual -> **anual**\n- attractive -> **atractivo**\n- different -> **diferente**\n- apparent -> **aparente**\n\n---\n\n**What about double “c”?**\n\nOkay, you got me. Sometimes you’ll see words with a “cc” in them. For example, “action” becomes “acción” in Spanish. However, despite being right next to each other, the two “c’s” have different sounds and occur in different syllables. The first “c” sounds like a “k,” and the second has an “s” sound. So “acción” sounds like “ahk-see-on.”\n\n---\n\nRemember also that there’s a syllable break between the two “c’s,” like so:\n\n- *correc-ción*\n- *direc-ción*\n- *instruc-ción*\n\n---\n\nWhy is this “cc” so weird? Well, it’s a little tricky. What’s actually happening in these cases is that a “tion” in an English word changes to be “ción,” which brings us to our next point!\n\n---\n\n**“tion” becomes “ción”**\n\nAs we just noted, English words switch out their “tion” for a “ción” when switching to Spanish. Keep in mind that if the word *ends* with “tion,” it changes to “ción,” with an accent over the “o.” If the “tion” is in the middle of the word, it changes to “cion” with *no* accent over the “o.”\n\n---\n\nTake a look at the examples below.\n\n- convention -> **convención**\n- conventional -> **convencional**\n- section -> **sección**\n- nation -> **nación**\n- national -> **nacional**\n\n*Notice that neither convencional nor nacional have the accented \"ó.\"*"
   },
   {
-    "id": "en-es-a-second-test",
-    "type": "reading",
-    "title": "a second test",
-    "text": "sav"
-  },
-  {
     "id": "es-a-beautiful-day-in-the-neighborhood-2",
     "type": "drill",
     "title": "A beautiful day in the neighborhood",
@@ -2292,25 +2286,6 @@
     "text": "Now it's time to tackle the teens. Let's learn the numbers 11-19.\n\n---\n\n**Teens: 11-19**\n11\\. once\n12\\. doce\n13\\. trece\n14\\. catorce\n15\\. quince\n16\\. dieciséis\n17\\. diecisiete\n18\\. dieciocho\n19\\. diecinueve\n\n---\n\nYou'll notice something curious here. The numbers 11-15 follow a different format than 16-19 (and, as we'll see in just a bit, all the other numbers up to 100).\n\n16-19 should be pretty clear. We take **diez** (10) and add the regular number to it. When this happens, instead of being \"diez y séis\" (ten and six), it becomes **dieciséis** (sixteen).\n\n---\n\nSo, why the different format with 11-15? Well, it's mostly for historical reasons. In fact, most of the romance languages have this quirk, because they all inherited it from Latin (thanks, Latin)...\n\nThat just means we have to memorize those five numbers. With a little practice, this should be no big deal.\n\n---\n\nFor now, other than those few, remember that as we get to bigger numbers, we first count by tens, then add the proper single-digit number to the end. This way of thinking will come in handy in the next few sections."
   },
   {
-    "id": "es-testing-1",
-    "type": "drill",
-    "title": "Testing 1",
-    "sentences": [
-      "es-aqui-es-una-frase-corta"
-    ]
-  },
-  {
-    "id": "es-testing-2",
-    "type": "drill",
-    "title": "Testing 2",
-    "sentences": [
-      "es-lo-haria-pero-no-puede",
-      "es-yo-iria-pero-estoy-ocupado-entonces-no-puedo",
-      "es-pruebas",
-      "es-aqui-hay-una-oracion-que-no-puede"
-    ]
-  },
-  {
     "id": "es-that-doggie-in-the-window",
     "type": "drill",
     "title": "That Doggie in the Window",
@@ -3384,22 +3359,6 @@
       "es-ellos-practican-ingles",
       "es-escucho-la-radio",
       "es-ustedes-cocinan"
-    ]
-  },
-  {
-    "id": "test-length",
-    "type": "drill",
-    "title": "test length",
-    "sentences": [
-      "es-aqui-es-un-frase-muy-largo-que-necessita-mas-espacio"
-    ]
-  },
-  {
-    "id": "testing-audio",
-    "type": "drill",
-    "title": "Testing Audio",
-    "sentences": [
-      "es-blah-new-thing"
     ]
   },
   {

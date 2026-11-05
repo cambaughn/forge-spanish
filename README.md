@@ -13,13 +13,17 @@ You can work through the course itself, for free and without an account, at
 |---|---|
 | `sentences.json` | 1,534 Spanish/English pairs, with accepted alternates and distractors |
 | `sentences.csv` | the same pairs, flat — for Anki, spreadsheets, anything that eats CSV |
-| `lessons.json` | 306 lessons: 88 reading lessons and 218 drills |
+| `lessons.json` | 301 lessons: 87 reading lessons and 214 drills |
 | `course.json` | the main course — 18 units, 67 sections, 183 lessons, in order |
 | `topics.json` | 19 themed collections across the same lessons (Star Wars, Cooking, Past Tense…) |
 | `tips.json` | 20 short grammar notes, attached to individual sentences |
 | `cheatsheets.json` | 19 longer reference pages, attached to units |
 
 Every reference resolves. No ids point at anything missing.
+
+183 of the lessons sit in the main course and 111 more are reached through a topic.
+The remaining 7 are finished lessons that nothing links to — they were written and
+then stranded, and they're here rather than thrown away.
 
 ## Shapes
 
@@ -76,7 +80,8 @@ confusion, I cut:
   references, exactly one still needed it, and that one was a test record.
 - **`cheat_sheet_entries`.** A newer take on cheat sheets that nothing referenced, and
   which duplicated an existing tip word for word.
-- **26 empty lessons**, titles with no body, several of them test records.
+- **31 lessons**: 26 that were titles with no body, and 5 scratch records left over
+  from testing (one of them three characters long).
 - **Other languages.** There were small Esperanto, Italian and Chinese sets, plus
   single-record stubs. This repo is Spanish only.
 
